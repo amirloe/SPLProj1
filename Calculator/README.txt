@@ -5,5 +5,4 @@ instructions:
     write make
     write ./calc
     
-    the calculator supports the following commands:
     
